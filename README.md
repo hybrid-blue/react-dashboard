@@ -1,3 +1,4 @@
 # React Dashboard
 
-Web App Dashboard created in React using React router.
+##A data-driven dashboard UI, built using React hooks and React-Router
+
